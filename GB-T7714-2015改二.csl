@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" default-locale="en-US" xmlns="http://purl.org/net/xbiblio/csl">
+<style class="in-text" version="1.0" name-delimiter=", " initialize-with=" " name-as-sort-order="all" sort-separator=" " names-delimiter=". " demote-non-dropping-particle="never" xmlns="http://purl.org/net/xbiblio/csl">
   <info>
     <title>China National Standard GB/T 7714-2015 (numeric, 中文)-1212</title>
     <title-short>GB/T 7714-2015</title-short>
     <id>http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric</id>
     <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric" rel="self"/>
     <link href="http://www.std.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
-    <author>
-      <name>牛耕田</name>
-      <email>buffalo_d@163.com</email>
-    </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2022-03-15T08:35:36+00:00</updated>
+    <updated>2022-03-15T08:48:36+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
